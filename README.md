@@ -10,7 +10,7 @@ The notebook extends earlier VAP/HeadLens code with a **10-scene × 5-query benc
 
 ## 📄 Paper
 
-[Add Google Drive link to the paper here]
+[https://drive.google.com/file/d/1N8-I3WCZzZBJZakcfJkQkIT_gQ-rNLAp/view?usp=drive_link]
 
 ## 📁 Repository Structure
 
